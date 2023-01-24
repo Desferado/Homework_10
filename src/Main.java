@@ -4,7 +4,6 @@ public class Main {
         task2();
         task3();
     }
-
     public static void task1() {
         System.out.println("Задание №1");
         String firstName = "Ivan";
